@@ -220,14 +220,14 @@ body {
   font-weight: lighter;
 }
 
-#replay {
-  cursor: pointer;
-  z-index: 3;
-}
-
 .nine a {
   font-size: 2rem;
   font-weight: lighter;
+}
+
+#replay {
+  cursor: pointer;
+  z-index: 3;
 }
 
 /* Media Queries */
