@@ -215,11 +215,6 @@ body {
   margin: 10px 0 0;
 }
 
-.nine p {
-  font-size: 2rem;
-  font-weight: lighter;
-}
-
 .nine a {
   font-size: 2rem;
   font-weight: lighter;
@@ -290,11 +285,6 @@ body {
     font-size: 1.4rem;
   }
 
-  .nine p {
-    font-size: 1.5rem;
-    font-weight: lighter;
-  }
-  
   .nine a {
     font-size: 1.5rem;
     font-weight: lighter;
